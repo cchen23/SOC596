@@ -1,1 +1,1 @@
-Files for COHA data used for problem.
+Files with COHA data used for problem. File contents described in problem.
